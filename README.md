@@ -2,7 +2,7 @@
 
 |        |        |
 |--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyos_jfc25.svg)](https://pypi.org/project/pyos_jfc25/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyos_jfc25.svg)](https://pypi.org/project/pyos_jfc25/)  |
+| Package | [![Latest PyPI Version](https://img.shields.io/test.pypi/v/pyos_jfc25.svg)](https://test.pypi.org/project/pyos_jfc25/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyos_jfc25.svg)](https://pypi.org/project/pyos_jfc25/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
 *TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
